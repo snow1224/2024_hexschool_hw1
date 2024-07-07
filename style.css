@@ -74,10 +74,13 @@ body {
   .flex-content{
     display: flex;
   }
+  .w-50{
+    width: 50%;
+  }
   .end-p{
-    padding-left: 660px;
-    justify-content: center;
-    align-items: flex-end;
+    position: relative;
+    left: calc(50% + 11px);
+    padding: 4rem 2rem 4rem 0;
   }
   .abstract-text {
     background-color: #EFEFEF;
@@ -108,6 +111,9 @@ body {
   }
   .text-align-right {
     text-align: right;
+  }
+  .mb-10{
+    margin-bottom: 10rem;
   }
   footer {
     background-color: #000000;
