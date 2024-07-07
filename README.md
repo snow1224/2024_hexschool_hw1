@@ -1,8 +1,7 @@
-# 2023hexschool_week1_hw
-* index_v1.html - 用bootstrap+手寫CSS個人履歷(已批閱)
-![result](./result.JPG)
+# 2024_hexschool_week1_hw
 
-* index.html - 純手寫CSS個人履歷(index_v1修改後的版本)
+* index.html - 純手寫CSS個人履歷
+![result](./result.png)
 
 * pixel perfect kata
 pixel_perfect_kata.html
