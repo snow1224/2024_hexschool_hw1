@@ -71,9 +71,6 @@ body {
     display: block;
     margin:0 auto;
   }
-  .flex-content{
-    display: flex;
-  }
   .w-50{
     width: 50%;
   }
